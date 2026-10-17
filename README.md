@@ -39,7 +39,7 @@ Things I build and run, out of Brisbane.
     <td width="88" align="center"><a href="https://peptidepitstop.com/"><img src="assets/pitstop.svg" width="64" height="64" alt="Peptide Pitstop logo"></a></td>
     <td>
       <b><a href="https://peptidepitstop.com/">Peptide Pitstop</a></b><br>
-      A free, open-source peptide tracker you host yourself. One Docker container, with no account and no telemetry.<br>
+      A free, open-source peptide tracker you host yourself for tracking prescriptions and Garmin health data. One Docker container.<br>
       <sub><a href="https://peptidepitstop.com/">peptidepitstop.com</a> · <a href="https://github.com/kavo91/peptide-pitstop">Source on GitHub</a></sub>
     </td>
   </tr>
