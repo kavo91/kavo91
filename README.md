@@ -1,5 +1,3 @@
-# kavo
-
 Things I build and run, out of Brisbane.
 
 <table>
