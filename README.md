@@ -28,19 +28,19 @@ Things I build and run, out of Brisbane.
     </td>
   </tr>
   <tr>
-    <td width="88" align="center"><a href="https://peptidepitstop.com/"><img src="assets/pitstop.svg" width="64" height="64" alt="Peptide Pitstop logo"></a></td>
-    <td>
-      <b><a href="https://peptidepitstop.com/">Peptide Pitstop</a></b><br>
-      A free, open-source peptide and GLP-1 tracker you host yourself. One Docker container, with no account and no telemetry.<br>
-      <sub><a href="https://peptidepitstop.com/">peptidepitstop.com</a> · <a href="https://github.com/kavo91/peptide-pitstop">Source on GitHub</a></sub>
-    </td>
-  </tr>
-  <tr>
     <td width="88" align="center"><a href="https://outlap.studio/sauna/"><img src="assets/sauna.svg" width="64" height="64" alt="Sauna Sessions app icon"></a></td>
     <td>
       <b><a href="https://outlap.studio/sauna/">Sauna Sessions</a></b><br>
       A Garmin watch app for sauna, steam and plunge sessions. It runs timed protocols, records a lap per stage and saves a FIT file to Garmin Connect. Free, with a one-off Pro unlock.<br>
       <sub><a href="https://outlap.studio/sauna/">outlap.studio/sauna</a> · <a href="https://apps.garmin.com/apps/7aba9f60-12cc-4184-af1c-45fd6a786e47">Connect IQ Store</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="88" align="center"><a href="https://peptidepitstop.com/"><img src="assets/pitstop.svg" width="64" height="64" alt="Peptide Pitstop logo"></a></td>
+    <td>
+      <b><a href="https://peptidepitstop.com/">Peptide Pitstop</a></b><br>
+      A free, open-source peptide tracker you host yourself. One Docker container, with no account and no telemetry.<br>
+      <sub><a href="https://peptidepitstop.com/">peptidepitstop.com</a> · <a href="https://github.com/kavo91/peptide-pitstop">Source on GitHub</a></sub>
     </td>
   </tr>
 </table>
