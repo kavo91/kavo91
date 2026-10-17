@@ -1,5 +1,15 @@
 Things I build and run, out of Brisbane.
 
+## SINUMERIK 808D custom screens
+
+<a href="https://www.bulletracing.team/products/808d-full"><img src="assets/808d-probing.jpg" width="720" alt="Multi-point Z probing screen from the custom SINUMERIK 808D screens"></a>
+
+Custom screens for Siemens SINUMERIK 808D mills. The package covers warm-up, tool measurement, parameters and cycles, plus a full probing suite with probe calibration, single-direction WCS probing and multi-point Z-face probing. Each package is built against your machine data, licensed to that one machine and emailed, usually within one or two business days.
+
+**[See the package, demo videos and requirements](https://www.bulletracing.team/products/808d-full)**
+
+## Projects
+
 <table>
   <tr>
     <td width="88" align="center"><a href="https://outlap.studio/"><img src="assets/outlap.svg" width="64" height="64" alt="Outlap Studio logo"></a></td>
@@ -13,7 +23,7 @@ Things I build and run, out of Brisbane.
     <td width="88" align="center"><a href="https://www.bulletracing.team/"><img src="assets/bullet.png" width="64" height="64" alt="Bullet Racing logo"></a></td>
     <td>
       <b><a href="https://www.bulletracing.team/">Bullet Racing Engineering</a></b><br>
-      Custom SINUMERIK 808D screen packages with probing suites, plus machined WP suspension and Honda RS125/RS250 parts. Built in Queensland and shipped worldwide.<br>
+      Machined WP suspension and Honda RS125/RS250 parts, plus the SINUMERIK 808D screens above. Built in Queensland and shipped worldwide.<br>
       <sub><a href="https://www.bulletracing.team/">bulletracing.team</a> · <a href="https://www.instagram.com/teambulletracing/">Instagram</a> · <a href="https://www.youtube.com/@bulletracingMCE">YouTube</a> · <a href="https://www.facebook.com/profile.php?id=100085931140598">Facebook</a></sub>
     </td>
   </tr>
