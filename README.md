@@ -42,6 +42,14 @@ Things I build and run, out of Brisbane.
     </td>
   </tr>
   <tr>
+    <td width="88" align="center"><a href="https://github.com/kavo91/patek-fenix-watchface"><img src="assets/patek-fenix.png" width="64" height="64" alt="Patek FENIX watch face icon"></a></td>
+    <td>
+      <b><a href="https://github.com/kavo91/patek-fenix-watchface">Patek FENIX</a></b><br>
+      A black and silver analog watch face for the Garmin fēnix 9 Pro. It has a moon-phase sub-dial, two calendar windows and slots you can set to show your own data.<br>
+      <sub><a href="https://github.com/kavo91/patek-fenix-watchface">Source and screenshots on GitHub</a></sub>
+    </td>
+  </tr>
+  <tr>
     <td width="88" align="center"><a href="https://peptidepitstop.com/"><img src="assets/pitstop.svg" width="64" height="64" alt="Peptide Pitstop logo"></a></td>
     <td>
       <b><a href="https://peptidepitstop.com/">Peptide Pitstop</a></b><br>
