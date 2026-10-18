@@ -1,16 +1,14 @@
 Things I build and run, out of Brisbane.
 
-## SINUMERIK 808D custom screens
-
-<a href="https://www.bulletracing.team/products/808d-full"><img src="assets/808d-probing.jpg" width="720" alt="Multi-point Z probing screen from the custom SINUMERIK 808D screens"></a>
-
-Custom screens for Siemens SINUMERIK 808D mills. The package covers warm-up, tool measurement, parameters and cycles, plus a full probing suite with probe calibration, single-direction WCS probing and multi-point Z-face probing. Each package is built against your machine data, licensed to that one machine and emailed, usually within one or two business days.
-
-**[See the package, demo videos and requirements](https://www.bulletracing.team/products/808d-full)**
-
-## Projects
-
 <table>
+  <tr>
+    <td width="88" align="center"><a href="https://www.bulletracing.team/products/808d-full"><img src="assets/808d.png" width="64" height="64" alt="SINUMERIK 808D probing screen icon"></a></td>
+    <td>
+      <b><a href="https://www.bulletracing.team/products/808d-full">SINUMERIK 808D custom screens</a></b><br>
+      Custom screens for Siemens SINUMERIK 808D mills, with a full probing suite. Each package is built against your machine data and licensed to that one machine.<br>
+      <sub><a href="https://www.bulletracing.team/products/808d-full">Package, demos and requirements</a></sub>
+    </td>
+  </tr>
   <tr>
     <td width="88" align="center"><a href="https://outlap.studio/"><img src="assets/outlap.svg" width="64" height="64" alt="Outlap Studio logo"></a></td>
     <td>
