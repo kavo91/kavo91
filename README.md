@@ -20,8 +20,8 @@ Things I build and run, out of Brisbane.
   <tr>
     <td width="88" align="center"><a href="https://www.bulletracing.team/"><img src="assets/bullet.png" width="64" height="64" alt="Bullet Racing logo"></a></td>
     <td>
-      <b><a href="https://www.bulletracing.team/">Bullet Racing Engineering</a></b><br>
-      Machined WP suspension and Honda RS125/RS250 parts, plus the SINUMERIK 808D screens above. Built in Queensland and shipped worldwide.<br>
+      <b><a href="https://www.bulletracing.team/">Bullet Racing Motorcycle Engineering</a></b><br>
+      WP suspension and Honda RS race parts, designed and engineered in Australia and shipped worldwide. Plus 3D scanning, reverse engineering and 3D printing in Brisbane, and the SINUMERIK 808D screens above.<br>
       <sub><a href="https://www.bulletracing.team/">bulletracing.team</a> · <a href="https://www.instagram.com/teambulletracing/">Instagram</a> · <a href="https://www.youtube.com/@bulletracingMCE">YouTube</a> · <a href="https://www.facebook.com/profile.php?id=100085931140598">Facebook</a></sub>
     </td>
   </tr>
