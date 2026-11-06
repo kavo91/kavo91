@@ -57,4 +57,12 @@ Things I build and run, out of Brisbane.
       <sub><a href="https://peptidepitstop.com/">peptidepitstop.com</a> · <a href="https://github.com/kavo91/peptide-pitstop">Source on GitHub</a></sub>
     </td>
   </tr>
+  <tr>
+    <td width="88" align="center"><a href="https://iam.bulletracing.team/"><img src="assets/iam-kg.svg" width="64" height="64" alt="Integrated Asset Management KG icon"></a></td>
+    <td>
+      <b><a href="https://iam.bulletracing.team/">Integrated Asset Management KG</a></b><br>
+      A knowledge graph proof of concept that links a mining asset's whole life in one place: engineering, maintenance, alarms, sensor time series and inspections. It covers a haul truck fleet, a conveyor and a rope shovel, with a 2D and 3D explorer and agent sessions that trace failures back to evidence. Built in RDF/OWL on synthetic data only.<br>
+      <sub><a href="https://iam.bulletracing.team/">Live demo</a></sub>
+    </td>
+  </tr>
 </table>
